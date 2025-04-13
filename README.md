@@ -9,6 +9,7 @@
 1. html
 2. css
 3. js
+4. CloudFormation
 
 ## デプロイ
 
@@ -20,8 +21,8 @@
 
 ## アプリ画像
 
-[!画像1](image\readme\readme_image01.png)
-[!画像2](image\readme\readme_image02.png)
+![画像1](https://github.com/user-attachments/assets/f77cc8aa-61f9-456a-919d-0273f8ae4674)
+![画像1](https://github.com/user-attachments/assets/03cd0033-4e9c-4b51-a5dd-1ea4a13547ee)
 
 ## 苦労した点
 
